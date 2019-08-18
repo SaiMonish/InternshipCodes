@@ -7,6 +7,8 @@
     <title>Homework Assignment</title>
 </head>
 <body>
-    <p>homework assignment for 8/18/2019 (Append HTMl contents using JQuery)</p>
+    <p>homework assignment for 8/18/2019 (Append HTMl contents using JQuery)
+    I am overriding the previous code.
+    </p>
 </body>
 </html>
